@@ -1,0 +1,2 @@
+hai students
+welcome to devops course
